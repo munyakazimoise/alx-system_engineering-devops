@@ -1,2 +1,2 @@
 #!/bin/brash
-ls -xanp
+ls -xamp
